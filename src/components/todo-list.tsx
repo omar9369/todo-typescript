@@ -7,7 +7,7 @@ import TodoItem from './todo-item'
 // Import interfaces
 import { TodoListInterface } from './../interfaces'
 
-// TodoList component
+// TodoList components
 const TodoList = (props: TodoListInterface) => {
   return (
     <div className="todo-list">
