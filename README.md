@@ -1,7 +1,7 @@
 # todo-typescript
 
 
-This is a Todolist app that can add, edit and remove toods. The first 3 inputs are from the Chuck Norris jokes api from this link: (https://api.chucknorris.io/jokes/random?category=dev)
+This is a Todolist app that can add, edit and remove toods. To edit the todolist simply click on the item you want to edit. The first 3 inputs are from the Chuck Norris jokes api from this link: (https://api.chucknorris.io/jokes/random?category=dev)
 
 
 ## How to Start
